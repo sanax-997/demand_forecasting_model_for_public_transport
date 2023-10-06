@@ -1,0 +1,1 @@
+After executing feature_generation.ipynb this foulder shoud contain ten .csv files to train the model.

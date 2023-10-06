@@ -1,1 +1,2 @@
-This folder should contain only the raw data
+This folder should only contain the "Uber Pickups in New York City" data from the months apr to september 2014.
+Rename the files to "data-(month)(year).csv".
