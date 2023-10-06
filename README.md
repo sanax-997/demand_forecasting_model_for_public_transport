@@ -21,7 +21,7 @@ To use the application follow the steps:
 3. Select the eda.ipynb file
 4. Execute the "Run All" command to generate a graphical representation of the dataset
 5. Select the model_training.ipynb file
-6. Execute the "Run All" command to train a regression models and make predictions
+6. Execute the "Run All" command to train regression models and make predictions
    
 ## Requirements
 Python Version 3.9.0
