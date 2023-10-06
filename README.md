@@ -9,11 +9,19 @@ The "Demand Forecasting Model for Public Transport" repository contains the code
 ## Installation
 1. Download the application from Github and extract the contents
 2. Open the folder with an IDE able to execute .ipynb files
+3. Download the Uber Pickups in New York City dataset from [Kaggle](https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city)
+4. Select only the Uber trip data from 2014 (April - September)
+5. Rename the files to "data-(month)(year).csv"
+6. Move the files to the "Raw Data" subfolder
 
 ## Usage
 To use the application follow the steps:
-1. Select a .ipynb file 
-2. Execute the "Run All" command
+1. Select the feature_generation.ipynb file
+2. Execute the "Run All" command to generate the .csv files for eda and model training
+3. Select the eda.ipynb file
+4. Execute the "Run All" command to generate a graphical representation of the dataset
+5. Select the model_training.ipynb file
+6. Execute the "Run All" command to train a regression models and make predictions
    
 ## Requirements
 Python Version 3.9.0
